@@ -15,7 +15,7 @@ Driver Installation in MAC-elton
 
   - ask mistress goolge for libusb0 installation instructions
 
-Linux
+Linux / Raspberry PI
 
   - didn'try but must be somethig like "apt-get install libusb0"
   
