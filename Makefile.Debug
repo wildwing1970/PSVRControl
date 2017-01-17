@@ -697,7 +697,80 @@ debug\psvrapi.obj: psvrapi.cpp psvrapi.h \
 		C:\Qt\5.6\msvc2015_64\include\QtCore\qobject_impl.h \
 		libusb\include\lusb0_usb.h
 
-debug\helpers.obj: helpers.cpp helpers.h
+debug\helpers.obj: helpers.cpp helpers.h \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\QVector3D \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\qvector3d.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qpoint.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qnamespace.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qglobal.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qconfig.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qfeatures.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qsystemdetection.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qprocessordetection.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qcompilerdetection.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qtypeinfo.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qtypetraits.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qisenum.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qsysinfo.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qlogging.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qflags.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qbasicatomic.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_bootstrap.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qgenericatomic.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_cxx11.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_gcc.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_msvc.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_armv7.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_armv6.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_armv5.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_ia64.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_x86.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qatomic_unix.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qglobalstatic.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qmutex.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qnumeric.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qversiontagging.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qmetatype.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qbytearray.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qrefcount.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qarraydata.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qstring.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qchar.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qstringbuilder.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qvarlengtharray.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qcontainerfwd.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qalgorithms.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qobjectdefs.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qobjectdefs_impl.h \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\QQuaternion \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\qquaternion.h \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\qgenericmatrix.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qdebug.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qhash.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qiterator.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qlist.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qhashfunctions.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qpair.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qbytearraylist.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qstringlist.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qregexp.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qstringmatcher.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qmap.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qtextstream.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qiodevice.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qobject.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qcoreevent.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qscopedpointer.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qobject_impl.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qlocale.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qvariant.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qshareddata.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qvector.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qset.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qcontiguouscache.h \
+		C:\Qt\5.6\msvc2015_64\include\QtCore\qdatastream.h \
+		C:\Qt\5.6\msvc2015_64\include\QtGui\qvector4d.h
 
 debug\qrc_resources.obj: debug\qrc_resources.cpp 
 
