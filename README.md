@@ -5,6 +5,8 @@ The Project can be build in QT, you can download form here
 
 https://www.qt.io/download/
 
+Project is under development! Expect Errors
+
 Driver Installation in Windows 10
 
   - You have to deactivate Windows Driver signing  https://www.youtube.com/watch?v=YafV2zlGA38
