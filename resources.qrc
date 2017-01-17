@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/config.png</file>
+        <file>res/icoBrigtness.png</file>
+        <file>res/icoDistance.png</file>
+        <file>res/icoSize.png</file>
+        <file>res/LEDIdentification.png</file>
+        <file>res/psvr.ico</file>
+    </qresource>
+</RCC>
