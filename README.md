@@ -23,5 +23,9 @@ Linux / Raspberry PI
   
   
 HAVE FUN!
+
+https://cloud.githubusercontent.com/assets/24974226/22475325/e30d680c-e7de-11e6-8a89-f3a5bd9a31d9.png
+
+Update : The screenshot is from the next Release .... stay tuned
   
 
